@@ -1,6 +1,6 @@
 # First-Programming-Project
 
-My first programming project I did for a course at Tidewater Community College. It takes two inputs which both are formatted in feet and inches
+My first programming project I did for a course at Tidewater Community College. It takes two inputs which both are formatted in feet and inches, converts and sums them in inches, and then reprints the result in feet and inches.
 
 
    file SumOfMeasurements.cpp
