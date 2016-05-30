@@ -4,8 +4,12 @@ My first programming project I did for a course at Tidewater Community College. 
 
 
    file SumOfMeasurements.cpp
+   
    February 22, 2011
-   Sums two inputs in feet and inches outputs the result in feet and inches */
+   
+   Sums two inputs in feet and inches outputs the result in feet and inches 
+   
    Languages: C++
+   
    IDE: DevC++
    
