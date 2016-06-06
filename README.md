@@ -7,7 +7,7 @@ My first programming project I did for a course at Tidewater Community College. 
    
    Date: February 22, 2011
    
-   Program: Sums two inputs in feet and inches outputs the result in feet and inches 
+   Program: Sums two inputs in feet and inches and outputs the result in feet and inches 
    
    Languages: C++
    
